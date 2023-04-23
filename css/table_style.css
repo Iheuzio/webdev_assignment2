@@ -1,0 +1,20 @@
+#result_table {
+    background-color: white;
+    border: 1px dashed orange;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+
+}
+
+#result_table_head {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;}
+
+#result_table_body  td {
+    border: 1px solid grey;
+    text-align: center;
+}
